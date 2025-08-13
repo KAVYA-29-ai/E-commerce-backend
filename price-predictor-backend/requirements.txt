@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+scikit-learn
+joblib
+requests
+gunicorn
+google-generativeai==0.7.2
